@@ -1,0 +1,13 @@
+{
+  "name": "kanban-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Kanban TODO App",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["kanban", "todo", "javascript", "frontend"],
+  "author": "Student",
+  "license": "MIT"
+}

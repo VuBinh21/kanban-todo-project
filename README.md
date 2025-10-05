@@ -57,7 +57,7 @@ cd kanban-frontend
 - [ ] Buổi 5: Database integration
 - [ ] Buổi 6: JWT authentication
 - [ ] Buổi 7: Frontend development basics
-- [ ] Buổi 8: Frontend development advance
+- [ ] Buổi 8: Frontend development advanced
 - [ ] Buổi 9: Deployment
 
 ## Đóng góp
